@@ -48,3 +48,10 @@ npm install
 
 npm start
 
+## Future Enhancements
+
+Add drag-and-drop functionality for task prioritization.
+
+Implement task reminders using email notifications.
+
+Add cloud-based database integration (e.g., PostgreSQL).
