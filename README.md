@@ -15,11 +15,23 @@ A full-stack task manager application built with **React**, **Django REST Framew
 - **Authentication**: JWT (JSON Web Tokens)
 
 ## Screenshots
-### Task List
-![Task List](screenshots/task-list.png)
+### Register
+
+![Screenshot 2025-01-24 072834](https://github.com/user-attachments/assets/3c628d3e-e231-4b37-8e65-5cfa122ec4ff)
 
 ### Add Task
-![Add Task](screenshots/add-task.png)
+
+![Screenshot 2025-01-24 072739](https://github.com/user-attachments/assets/84e5a60d-857a-4cce-b9d2-fa3f0062f636)
+
+### Home Page
+
+![Screenshot 2025-01-24 072713](https://github.com/user-attachments/assets/137a4a28-060f-4442-9aa6-e43dd50a1d3e)
+
+### Profile Page
+
+![Screenshot 2025-01-24 072809](https://github.com/user-attachments/assets/0fa31466-a8c0-4efe-a48f-ce516fedc5dc)
+
+
 
 ## Installation
 1. Clone the repository:
